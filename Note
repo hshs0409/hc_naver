@@ -1,0 +1,26 @@
+HTML
+웹의 구조
+
+CSS
+웹의 디자인
+
+JavaScript
+웹의 동작 (예전) => 웹의 모든 것 (요즘) 
+
+HTML
+
+<!doctype html> => 유일하게 예외
+    <html>
+        <head>
+        문서에 대한 부가적인 정보
+        </head>
+
+        헤드와 바디는 Sibling
+        <body>
+        문서의 내용을 담당 = 화면
+        </body>
+
+        html 과 head&body 는 부모자식
+    </html>
+
+닫는 태그 습관 들이기
